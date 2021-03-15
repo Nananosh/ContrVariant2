@@ -1,0 +1,16 @@
+C:\Users\nanan\RiderProjects\ContrVariant2\Zad 2\bin\Debug\net5.0\Zad 2.exe
+C:\Users\nanan\RiderProjects\ContrVariant2\Zad 2\bin\Debug\net5.0\Zad 2.deps.json
+C:\Users\nanan\RiderProjects\ContrVariant2\Zad 2\bin\Debug\net5.0\Zad 2.runtimeconfig.json
+C:\Users\nanan\RiderProjects\ContrVariant2\Zad 2\bin\Debug\net5.0\Zad 2.runtimeconfig.dev.json
+C:\Users\nanan\RiderProjects\ContrVariant2\Zad 2\bin\Debug\net5.0\Zad 2.dll
+C:\Users\nanan\RiderProjects\ContrVariant2\Zad 2\bin\Debug\net5.0\ref\Zad 2.dll
+C:\Users\nanan\RiderProjects\ContrVariant2\Zad 2\bin\Debug\net5.0\Zad 2.pdb
+C:\Users\nanan\RiderProjects\ContrVariant2\Zad 2\obj\Debug\net5.0\Zad 2.csprojAssemblyReference.cache
+C:\Users\nanan\RiderProjects\ContrVariant2\Zad 2\obj\Debug\net5.0\Zad 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanan\RiderProjects\ContrVariant2\Zad 2\obj\Debug\net5.0\Zad 2.AssemblyInfoInputs.cache
+C:\Users\nanan\RiderProjects\ContrVariant2\Zad 2\obj\Debug\net5.0\Zad 2.AssemblyInfo.cs
+C:\Users\nanan\RiderProjects\ContrVariant2\Zad 2\obj\Debug\net5.0\Zad 2.csproj.CoreCompileInputs.cache
+C:\Users\nanan\RiderProjects\ContrVariant2\Zad 2\obj\Debug\net5.0\Zad 2.dll
+C:\Users\nanan\RiderProjects\ContrVariant2\Zad 2\obj\Debug\net5.0\ref\Zad 2.dll
+C:\Users\nanan\RiderProjects\ContrVariant2\Zad 2\obj\Debug\net5.0\Zad 2.pdb
+C:\Users\nanan\RiderProjects\ContrVariant2\Zad 2\obj\Debug\net5.0\Zad 2.genruntimeconfig.cache

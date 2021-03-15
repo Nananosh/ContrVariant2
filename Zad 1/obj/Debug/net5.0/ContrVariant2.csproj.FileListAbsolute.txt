@@ -1,0 +1,16 @@
+C:\Users\nanan\RiderProjects\ContrVariant2\ContrVariant2\bin\Debug\net5.0\ContrVariant2.exe
+C:\Users\nanan\RiderProjects\ContrVariant2\ContrVariant2\bin\Debug\net5.0\ContrVariant2.deps.json
+C:\Users\nanan\RiderProjects\ContrVariant2\ContrVariant2\bin\Debug\net5.0\ContrVariant2.runtimeconfig.json
+C:\Users\nanan\RiderProjects\ContrVariant2\ContrVariant2\bin\Debug\net5.0\ContrVariant2.runtimeconfig.dev.json
+C:\Users\nanan\RiderProjects\ContrVariant2\ContrVariant2\bin\Debug\net5.0\ContrVariant2.dll
+C:\Users\nanan\RiderProjects\ContrVariant2\ContrVariant2\bin\Debug\net5.0\ref\ContrVariant2.dll
+C:\Users\nanan\RiderProjects\ContrVariant2\ContrVariant2\bin\Debug\net5.0\ContrVariant2.pdb
+C:\Users\nanan\RiderProjects\ContrVariant2\ContrVariant2\obj\Debug\net5.0\ContrVariant2.csprojAssemblyReference.cache
+C:\Users\nanan\RiderProjects\ContrVariant2\ContrVariant2\obj\Debug\net5.0\ContrVariant2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanan\RiderProjects\ContrVariant2\ContrVariant2\obj\Debug\net5.0\ContrVariant2.AssemblyInfoInputs.cache
+C:\Users\nanan\RiderProjects\ContrVariant2\ContrVariant2\obj\Debug\net5.0\ContrVariant2.AssemblyInfo.cs
+C:\Users\nanan\RiderProjects\ContrVariant2\ContrVariant2\obj\Debug\net5.0\ContrVariant2.csproj.CoreCompileInputs.cache
+C:\Users\nanan\RiderProjects\ContrVariant2\ContrVariant2\obj\Debug\net5.0\ContrVariant2.dll
+C:\Users\nanan\RiderProjects\ContrVariant2\ContrVariant2\obj\Debug\net5.0\ref\ContrVariant2.dll
+C:\Users\nanan\RiderProjects\ContrVariant2\ContrVariant2\obj\Debug\net5.0\ContrVariant2.pdb
+C:\Users\nanan\RiderProjects\ContrVariant2\ContrVariant2\obj\Debug\net5.0\ContrVariant2.genruntimeconfig.cache
